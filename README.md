@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Ian Kigen!
 
-<!--
-**Iankigen00/Iankigen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I do**
 
-Here are some ideas to get you started:
+Mixed-Signal IC Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Digital RTL and Verification - VHDL and Verilog HDL
+
+Physical Design
+
+VLSI Implementation
+
+**Currently exploring:**
+
+Frequency Synthesizer DPLL in 130nm Technology
+
+**Let's connect**
+
+[LinkedIn](https://www.linkedin.com/in/ian-kigen/)
+ 
+    
+
+
