@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian Kigen!
 
-**This is what I do**
+**This is what I do:**
 
 Mixed-Signal IC Design
 
