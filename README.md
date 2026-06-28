@@ -1,4 +1,5 @@
 ## Hi there, I'm Ian Kigen!
+**I'm a Telecommunication and information Engineering student with a strong interest in microelectronics**
 
 **This is what I do:**
 
